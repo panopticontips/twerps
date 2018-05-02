@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100014427252730
+
+Facebook name: Gerald Peterson
+
+Facebook username: 100014427252730
+
+Facebook Intro section: Joined December 2016
+
+Facebook Cities Lived In section: (('Seguin, Texas', 'Hometown'),)
+
+Facebook Relationship Status section: ('Married',)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

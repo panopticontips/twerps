@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 752396551
+
+Facebook name: Matthew Rafael
+
+Facebook username: st.sava
+
+Facebook Cities Lived In section: (('Johnstown, Pennsylvania', 'Current city'), ('Clark, New Jersey', 'Hometown'))
+
+Facebook Family section: (('', '', 'Michael Innokentii II', 'Son'), ('701232670', 'jenncrowley', 'Jennifer Crowley', 'Cousin'), ('1175893522', 'ktrevino1009', 'Kate Trevino', 'Cousin'), ('100001730283104', 'nick.kradlak', 'Nick Kradlak', 'Nephew'))
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

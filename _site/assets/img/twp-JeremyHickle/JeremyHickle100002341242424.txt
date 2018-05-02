@@ -1,0 +1,15 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100002341242424
+
+Facebook name: Jeremy Hickle
+
+Facebook username: jeremy.hickle1
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/jeremy.hickle1']}
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women'}
+

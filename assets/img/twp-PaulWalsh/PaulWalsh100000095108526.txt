@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100000095108526
+
+Facebook name: Paul Walsh
+
+Facebook username: BallWalsh
+
+Facebook Intro section: I do not advocate for, nor endorse any violence or harassment. Lives in Detroit, Michigan Pronounces name PA-ul WALSH Joined July 2009
+
+Facebook Cities Lived In section: (('Detroit, Michigan', 'Current city'),)
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/BallWalsh']}
+
+Facebook Basic Info section: {'Languages': 'German language · American English'}
+

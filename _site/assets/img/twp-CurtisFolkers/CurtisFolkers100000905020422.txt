@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100000905020422
+
+Facebook name: Curtis Folkers
+
+Facebook username: curtis.folkers
+
+Facebook Intro section: Violence may not be the answer but it sure cuts down on the stupid questions Lives in Yankton, South Dakota From Phoenix, Arizona Joined March 2010
+
+Facebook Cities Lived In section: (('Yankton, South Dakota', 'Current city'), ('Phoenix, Arizona', 'Hometown'))
+
+Facebook Life Events section: ('2017', 'added a life event', '1989', 'Born on January 29, 1989')
+
+Facebook Basic Info section: {'Birthday': 'January 29, 1989', 'Gender': 'Male', 'Languages': 'American English', 'Political Views': 'Libertarian'}
+

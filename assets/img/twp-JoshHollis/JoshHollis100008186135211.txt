@@ -1,0 +1,29 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100008186135211
+
+Facebook name: Josh Hollis
+
+Facebook alternate name: Hammerhead
+
+Facebook username: josh.hollis.16
+
+Facebook Intro section: Married to Nathina Hollis Joined April 2014
+
+Facebook Cities Lived In section: (('Paradise Park', 'Moved on October 29, 2016'),)
+
+Facebook Family section: (('', '', 'Marty Hollis', 'Father'), ('100010999208851', 'drew.hollis.35', 'Drew Hollis', 'Cousin'))
+
+Facebook Relationship Status section: ('Nathina HollisMarried since November 20, 2015',)
+
+Facebook Details section: Faith folk and nation .My loyalty is with my family.I love my Queen and my little princes and prince. I have three beautiful girls and a cute little boy.I have great parents and their parents. We all have a lot of love and history in my family.Always have had each others back.
+
+Facebook Life Events section: ('2016', 'Moved to Paradise Park', '2015', 'Married Nathina Hollis')
+
+Facebook Basic Info section: {'Gender': 'Male'}
+
+Facebook Quotes section: ('I do not think much of a man that is not wiser than he was yeserday.',)
+

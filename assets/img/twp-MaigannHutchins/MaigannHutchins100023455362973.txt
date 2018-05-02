@@ -1,0 +1,21 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100023455362973
+
+Facebook name: Maigann Hutchins
+
+Facebook username: maigann.hutchins.5
+
+Facebook Intro section: Married Joined December 2017
+
+Facebook Relationship Status section: ('Married since February 9, 2010',)
+
+Facebook Life Events section: ('2017', 'Married Joseph Hutchins')
+
+Facebook Basic Info section: {'Gender': 'Female'}
+
+Facebook Quotes section: ('The most precious possession you have in the world is your own people. And for this people, and for the sake of this people, we will struggle and fight! And never slacken! And never tire! And never lose courage! And never despair!',)
+

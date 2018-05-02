@@ -1,0 +1,21 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100022260432288
+
+Facebook name: John Smith
+
+Facebook username: 100022260432288
+
+Facebook Intro section: Wig Splitter & Cheek Buster Works at Asatru Folk Assembly Married
+
+Facebook Work section: (('Asatru Folk Assembly', 'https://www.facebook.com/pages/Asatru-Folk-Assembly/102607919793006', 'February 25, 2018 to present'),)
+
+Facebook Relationship Status section: ('Married',)
+
+Facebook Life Events section: ('2018', 'Started New Job at Asatru Folk Assembly', 'Got Married')
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

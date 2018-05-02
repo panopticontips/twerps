@@ -1,0 +1,31 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001247137980
+
+Facebook name: Katrina Diane Mullins
+
+Facebook username: katrina.d.mullins
+
+Facebook Intro section: I'm a mother to three great guys Skyler, Samuel, and Sawyer. I'm married to my love Anthony Mullins. Mum at Stay at Home Mum Studied everything at Madisonville Community College Went to madisonville north Married to Anthony Mullins From Hanson, Kentucky
+
+Facebook Cities Lived In section: (('Hanson, Kentucky', 'Hometown'),)
+
+Facebook Work section: (('Stay at Home Mum', 'https://www.facebook.com/StayHomeMum/', 'Mum'),)
+
+Facebook Education section: (('madisonville north', 'https://www.facebook.com/pages/madisonville-north/106426772728398', 'Class of 2000'), ('Madisonville Community College', 'https://www.facebook.com/pages/Madisonville-Community-College/113369402009969', 'everything · Madisonville, Kentucky'))
+
+Facebook Family section: (('', '', 'Anthony Mullins', 'Father'), ('100007153905554', 'charlotte.duncan.9210', 'Charlotte Duncan', 'Mother'), ('100002072119167', 'rosetta.hibbs', 'Rosetta Hibbs', 'Mother-in-law'))
+
+Facebook Relationship Status section: ('Anthony MullinsMarried since September 17, 2010',)
+
+Facebook Details section: Im a mother of 3 boys.Skyler is 15, Samuel is 3, and Sawyer is one.I've only been married for 4 years, Anthony Mullins.  he is the love of my Life. I'm a stay at home mother and wife. I love my boys with all of me. I thank the Lord everyday for bringing Anthony into my life. He took me out of the hell I was in.
+
+Facebook Life Events section: ('2011', 'Anthony Mullins and Katrina Diane Mullins are in a Relationship', 'with Katrina Diane Mullins', 'Anthony Mullins and Katrina Diane Mullins Got Married', 'with Katrina Diane Mullins', '2010', 'Anthony Mullins and Katrina Diane Mullins Got Engaged', 'with Katrina Diane Mullins', 'Marriage', '1998', 'Got a Car')
+
+Facebook Basic Info section: {'Birthday': 'December 28', 'Gender': 'Female', 'Religious Views': 'Baptist', 'Political Views': 'Most politicians do not tell the truth anyway!!!!'}
+
+Facebook Quotes section: ('The only things worth fighting for in life are the ones that make you truely happy and are worth the fight!!!!........Kat', 'rina Duncan')
+

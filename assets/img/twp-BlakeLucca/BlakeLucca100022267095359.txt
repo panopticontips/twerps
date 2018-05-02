@@ -1,0 +1,13 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100022267095359
+
+Facebook name: Blake Lucca
+
+Facebook username: blake.lucca.1
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

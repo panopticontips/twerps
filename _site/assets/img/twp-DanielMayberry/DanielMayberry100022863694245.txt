@@ -1,0 +1,15 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100022863694245
+
+Facebook name: Daniel Mayberry
+
+Facebook username: daniel.mayberry.96343
+
+Facebook Intro section: Im a good ol Tradworker
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

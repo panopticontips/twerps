@@ -1,0 +1,15 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001872545098
+
+Facebook name: Zaine Deal
+
+Facebook username: itsfevs
+
+Facebook Intro section: Joined November 2010
+
+Facebook Basic Info section: {'Gender': 'Male', 'Languages': 'English language'}
+

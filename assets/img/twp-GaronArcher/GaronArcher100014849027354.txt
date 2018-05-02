@@ -1,0 +1,21 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100014849027354
+
+Facebook name: Garon Archer
+
+Facebook alternate name: FashyHillbilly
+
+Facebook username: 100014849027354
+
+Facebook Intro section: Self-Employed Lives in Carter, Tennessee From Elizabethton, Tennessee
+
+Facebook Cities Lived In section: (('Carter, Tennessee', 'Current city'), ('Elizabethton, Tennessee', 'Hometown'))
+
+Facebook Work section: (('Self-Employed', 'https://www.facebook.com/pages/Self-Employed/594445203920155', ''),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

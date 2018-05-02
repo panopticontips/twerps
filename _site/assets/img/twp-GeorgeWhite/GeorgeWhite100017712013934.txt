@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100017712013934
+
+Facebook name: George White
+
+Facebook username: 100017712013934
+
+Facebook Intro section: Works at George Lincoln Rockwell's Brownshirts From Gary, Indiana
+
+Facebook Cities Lived In section: (('Gary, Indiana', 'Hometown'),)
+
+Facebook Work section: (("George Lincoln Rockwell's Brownshirts", 'https://www.facebook.com/pages/George-Lincoln-Rockwells-Brownshirts/148612272376262', ''),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

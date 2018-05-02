@@ -1,0 +1,23 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100011381500118
+
+Facebook name: Adam Tuttle
+
+Facebook alternate name: Ullr
+
+Facebook username: ullrxcii
+
+Facebook Intro section: Facebook.com/ullrmedia   :XCII: FAOLADH DIVISION: Midgard Barbell Athletic Co. Joined February 2016 facebook.com/ullrmedia midgardbarbell.com
+
+Facebook Work section: (('Midgard Barbell Athletic Co.', 'https://www.facebook.com/pages/Midgard-Barbell-Athletic-Co/169534100344488', 'CEO/Founder/Owner · August 22, 2017 to present'),)
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/ullrxcii'], 'Websites': ['http://www.facebook.com/ullrmedia', 'http://www.midgardbarbell.com/']}
+
+Facebook Life Events section: ('2017', 'Started New Job at Midgard Barbell Athletic Co.')
+
+Facebook Basic Info section: {'Gender': 'Male', 'Languages': 'English language · Russian language · Norwegian (Nynorsk) · Japanese language'}
+

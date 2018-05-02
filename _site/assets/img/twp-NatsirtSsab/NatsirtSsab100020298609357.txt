@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100020298609357
+
+Facebook name: Natsirt Ssab
+
+Facebook username: natsirt.ssab
+
+Facebook Intro section: Lives in Birmingham, Alabama From Scottsboro, Alabama Joined July 2017
+
+Facebook Cities Lived In section: (('Birmingham, Alabama', 'Current city'), ('Scottsboro, Alabama', 'Hometown'))
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women'}
+

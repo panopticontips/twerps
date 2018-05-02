@@ -1,0 +1,25 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001776226180
+
+Facebook name: Christopher Cope
+
+Facebook username: christopher.cope.7
+
+Facebook Intro section: Sovereignty and Blood forever Former Operations Specialist at U.S. Navy Studied Black Speech language at Lugbúrz State University Went to Uncle Khamûl's School for Númenórean Tots
+
+Facebook Work section: (('U.S. Navy', 'https://www.facebook.com/USNavy/', 'Operations Specialist · July 2, 2012 to July 2, 2016 · Norfolk, Virginia'),)
+
+Facebook Education section: (('Lugbúrz State University', 'https://www.facebook.com/pages/Lugb%C3%BArz-State-University/1880876205566812', 'Black Speech language'), ("University of Just Read a Book You Idiot They're Free at the Library", 'https://www.facebook.com/pages/University-of-Just-Read-a-Book-You-Idiot-Theyre-Free-at-the-Library/1922621208007684', 'Library, Pennsylvania'), ("Uncle Khamûl's School for Númenórean Tots", 'https://www.facebook.com/pages/Uncle-Kham%C3%BBls-School-for-N%C3%BAmen%C3%B3rean-Tots/158849358004175', ''))
+
+Facebook Family section: (('', '', 'Charles Cope', 'Father'), ('', '', 'Theresa Cope', 'Mother'))
+
+Facebook Life Events section: ('2017', 'In a Relationship', '2016', 'Left Job at U.S. Navy', '2015', 'Persian Gulf Deployment', '2012', 'Started New Job at U.S. Navy', '2011', 'In a Relationship', 'In a Relationship')
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women', 'Languages': 'English language', 'Religious Views': 'Sauron-Melkor Apologism '}
+
+Facebook Quotes section: ('"To learn who rules over you, simply find out who you are not allowed to criticize." - Voltaire', '"Very little is needed to make a happy life; it is all within yourself, in your way of thinking." - Marcus Aurelius', '"Those who are heartless once cared too much" - Unknown', '"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth." - Marcus Aurelius')
+

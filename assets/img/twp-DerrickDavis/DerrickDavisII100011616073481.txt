@@ -1,0 +1,23 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100011616073481
+
+Facebook name: Derrick Davis II
+
+Facebook username: 100011616073481
+
+Facebook Intro section: wew lads big think Lives in Richmond, Virginia In a relationship From Richmond, Virginia Joined April 2016
+
+Facebook Cities Lived In section: (('Richmond, Virginia', 'Current city'), ('Richmond, Virginia', 'Hometown'))
+
+Facebook Work section: (("Edgeworth's Fash Emporium", 'https://www.facebook.com/pages/Edgeworths-Fash-Emporium/335318413581401', 'Small Business Owner · Richmond, Virginia'),)
+
+Facebook Relationship Status section: ('In a relationship',)
+
+Facebook Life Events section: ('2016', 'In a Relationship with Charlotte Drago')
+
+Facebook Basic Info section: {'Gender': 'Male', 'Languages': 'Southern American English'}
+

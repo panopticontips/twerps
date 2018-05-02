@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001671307338
+
+Facebook name: Michael Reich
+
+Facebook username: mgardner94
+
+Facebook Intro section: Lives in Madisonville, Kentucky Single Joined October 2010
+
+Facebook Cities Lived In section: (('Madisonville, Kentucky', 'Current city'), ('Providence, Webster County, Kentucky', 'Hometown'))
+
+Facebook Relationship Status section: ('Single',)
+
+Facebook Basic Info section: {'Gender': 'Male', 'Languages': 'American English'}
+

@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100022968821590
+
+Facebook name: Dave Fassler
+
+Facebook username: dave.fassler.77
+
+Facebook Intro section: Faith. Family. Folk. Went to Highlands High School Lives in Covington, Kentucky From Cincinnati
+
+Facebook Cities Lived In section: (('Covington, Kentucky', 'Current city'), ('Cincinnati', 'Hometown'))
+
+Facebook Education section: (('Highlands High School', 'https://www.facebook.com/pages/Highlands-High-School/105485006151617', 'Fort Thomas, Kentucky'),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

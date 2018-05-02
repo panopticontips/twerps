@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100012260259177
+
+Facebook name: Paddy Tarleton II
+
+Facebook username: paddy.howe.520
+
+Facebook Intro section: From Fair Hill, Maryland
+
+Facebook Cities Lived In section: (('Kittery, Maine', 'Current city'), ('Fair Hill, Maryland', 'Hometown'))
+
+Facebook Relationship Status section: ('Engaged',)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

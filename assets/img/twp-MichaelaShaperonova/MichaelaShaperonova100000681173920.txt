@@ -1,0 +1,29 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100000681173920
+
+Facebook name: Michaela Shaperonova
+
+Facebook alternate name: Kenraali Shaperönöva
+
+Facebook username: michaela.shapero
+
+Facebook Intro section: Baroness at Principality of Sealand Washington D.C. Correspondent at Scyther Podcasts Went to Gaithersburg High School Lives in Washington, District of Columbia Engaged to Shawn Nanni Pronounces name mi-KAY-luh SHAY-per-OH-noh-vah Joined February 2010 Followed by 114 people
+
+Facebook Cities Lived In section: (('Washington, District of Columbia', 'Current city'),)
+
+Facebook Work section: (('Principality of Sealand', 'https://www.facebook.com/PrincipalityOfSealand/', 'Baroness · December 28, 2015 to present Position of Regality/Minor Royalty'), ('Scyther Podcasts', 'https://www.facebook.com/ScytherInc/', 'Washington D.C. Correspondent · December 2014 to present · Washington, District of Columbia'))
+
+Facebook Education section: (('Gaithersburg High School', 'https://www.facebook.com/pages/Gaithersburg-High-School/112727228738919', 'Class of 2017 · Gaithersburg, Maryland'),)
+
+Facebook Family section: (('100003685935811', 'Christopher.Kwame.Addai', 'Christopher Kwamé Addai', 'Brother'), ('100006360407658', '100006360407658', 'Anna Marie Beth', 'Cousin'))
+
+Facebook Relationship Status section: ('Shawn NanniEngaged since January 15, 2017',)
+
+Facebook Life Events section: ('2017', 'Graduated from Gaithersburg High School', '2016', 'In a Relationship', 'In a Relationship', 'Got Engaged to Shawn Nanni', '2015', 'Started New Job at Principality of Sealand', '2014', 'Started New Job at Scyther Podcasts', '2013', 'Started School at Gaithersburg High School')
+
+Facebook Basic Info section: {'Birthday': 'June 23', 'Gender': 'Female'}
+

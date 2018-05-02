@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100004205861790
+
+Facebook name: Aaron Chapman
+
+Facebook alternate name: Chappy
+
+Facebook username: tattoomaster.chappy
+
+Facebook Details section: My name is Chappy. I have been at tattoo artist professionally for 11 years, but have been tattooing for 18. I have tattooed all over the country at many tattoo conventions, and have worked at some of the top tattoo shops around the country. I have owned two successful shop. I currently own Elite Tattoo Lounge in Madisonville KY.
+
+Facebook Basic Info section: {'Gender': 'Male', 'Languages': 'English language · American English · Pig Latin'}
+

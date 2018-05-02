@@ -1,0 +1,25 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100000348123259
+
+Facebook name: Derrick Davis
+
+Facebook username: SummonerofDoubt
+
+Facebook Intro section: Philosopher of Politics and Ethics Studied Philosophy at Virginia Commonwealth University
+
+Facebook Cities Lived In section: (('Mechanicsville, Virginia', 'Moved on January 1, 2000'),)
+
+Facebook Education section: (('Virginia Commonwealth University', 'https://www.facebook.com/virginiacommonwealthuniversity/', 'Jun 2013 to Oct 2016 · Philosophy · Richmond, Virginia'),)
+
+Facebook Family section: (('', '', 'Dreiiaa Battaglia', 'Family member'),)
+
+Facebook Details section: @peregrinusr3x  Philosopher
+
+Facebook Life Events section: ('2016', 'Left Virginia Commonwealth University', 'Got Engaged', '2015', 'In a Relationship with Dreiiaa Battaglia', '2014', 'First Met Mya Woods', '2013', 'Started School at Virginia Commonwealth University', '2000', 'Moved to Mechanicsville, Virginia')
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women', 'Religious Views': 'Asatru Esotericism', 'Political Views': 'National Localism '}
+

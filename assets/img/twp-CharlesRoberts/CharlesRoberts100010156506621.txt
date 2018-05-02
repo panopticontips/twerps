@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100010156506621
+
+Facebook name: Charles Roberts
+
+Facebook username: 100010156506621
+
+Facebook Intro section: In a relationship
+
+Facebook Relationship Status section: ('In a relationship',)
+
+Facebook Life Events section: ('2018', 'In a Relationship')
+
+Facebook Basic Info section: {'Gender': 'Male'}
+
