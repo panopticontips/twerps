@@ -1,0 +1,31 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100000712887723
+
+Facebook name: Sönny Thomas
+
+Facebook username: SpringboroTea
+
+Facebook Intro section: Owner-operator at Resolution RADIO Animateur de radio at The Sonny Thomas Show Warren County Republican Party at Precinct captain President and Founder at SpringboroTeaParty.com Former Head Honcho at Nunya Business Inc. Former Animateur de radio at The Coalition Former Promoter at Ron Paul Blog Studied Business management at Sinclair Community College Went to Belmont High School Dayton Ohio Lives in Springboro, Ohio Single From Dayton, Ohio Pronounces name SAW-nee TAH-muhs Joined February 2010 Followed by 286 people SonnyThomas.com TheHMD.com Twitter.com/SpringboroTea youtube.com/user/SpringboroTeaParty Twitter.com/SonnyThomasShow ResolutionRDO.com
+
+Facebook Cities Lived In section: (('Springboro, Ohio', 'Current city'), ('Dayton, Ohio', 'Hometown'))
+
+Facebook Work section: (('Resolution RADIO', 'https://www.facebook.com/ResolutionRDO/', 'Owner-operator · January 6, 2016 to present · Springboro, Ohio'), ('The Sonny Thomas Show', 'https://www.facebook.com/SonnyThomasShow/', 'Animateur de radio · February 6, 2014 to present · Springboro, Ohio'), ('Precinct captain', 'https://www.facebook.com/pages/Precinct-captain/106128129417564', 'Warren County Republican Party · 2010 to present · Springboro, Ohio I am a Jeffersonian Republican working in the Warren Co. GOP for precinct #71.'), ('SpringboroTeaParty.com', 'https://www.facebook.com/SpringboroTeaParty/', 'President and Founder · 2009 to present · Springboro, Ohio'), ('Ron Paul Blog', 'https://www.facebook.com/RONPAULPAGE/', 'Promoter · 2007 to 2012'), ('Nunya Business Inc.', 'https://www.facebook.com/pages/Nunya-Business-Inc/646805445352917', 'Head Honcho'), ('The Coalition', 'https://www.facebook.com/coalitionofone/', 'Animateur de radio'))
+
+Facebook Education section: (('Sinclair Community College', 'https://www.facebook.com/pages/Sinclair-Community-College/112506135428220', ''), ('PLS 102', '', ''), ('Psy 119', '', ''), ('Belmont High School Dayton Ohio', 'https://www.facebook.com/pages/Belmont-High-School-Dayton-Ohio/111835202176907', 'Class of 1992 · Dayton, Ohio'))
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/SpringboroTea'], 'Websites': ['http://www.SonnyThomas.com', 'http://www.TheHMD.com', 'http://www.Twitter.com/SpringboroTea', 'http://www.youtube.com/user/SpringboroTeaParty', 'http://www.Twitter.com/SonnyThomasShow', 'http://www.ResolutionRDO.com']}
+
+Facebook Family section: (('', '', 'Michael Thomas', 'Brother'), ('', '', 'Patches - my cat!', 'Family member'))
+
+Facebook Relationship Status section: ('Single',)
+
+Facebook Life Events section: ('2016', 'Started New Job at Resolution RADIO', '2014', 'Re-election for precinct captain for Warren Co. GOP', 'Started New Job at The Sonny Thomas Show', '2012', 'Left Job at Ron Paul Blog', '2011', 'Graduated from Sinclair Community College', '2010', 'Started New Job at Precinct captain', '2009', 'Started New Job at SpringboroTeaParty.com', '2007', 'Started New Job at Ron Paul Blog', '2001', 'Quit Smoking', '1992', 'Started School at Sinclair Community College', 'Graduated from Belmont High School Dayton Ohio', '1988', 'Started School at Belmont High School Dayton Ohio')
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women', 'Languages': 'American English · British English'}
+
+Facebook Quotes section: ('"Extremism in the defense of Liberty, is no vice! Moderation in the pursuit of justice, is no virtue!" - Senator Barry M. Goldwater 1964', '"Always vote for principle, though you may vote alone, and you may cherish the sweetest reflection that your vote is never lost." - John Quincy Adams', '"Warriors don\'t show their heart until the axe reveals it."', '- Floki')
+

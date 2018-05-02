@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100013932513455
+
+Facebook name: Cory Pruchinsky
+
+Facebook username: cory.pruchinsky.7
+
+Facebook Intro section: Went to Admiral King High School Lives in Lorain, Ohio
+
+Facebook Cities Lived In section: (('Lorain, Ohio', 'Current city'),)
+
+Facebook Education section: (('Admiral King High School', 'https://www.facebook.com/pages/Admiral-King-High-School/770628742955863', ''),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

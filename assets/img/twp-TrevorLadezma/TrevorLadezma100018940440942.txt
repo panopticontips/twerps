@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100018940440942
+
+Facebook name: Trevor Ladezma
+
+Facebook username: trevor.riterd.3
+
+Facebook Intro section: Self-Employed Lives in Saint Petersburg, Florida
+
+Facebook Cities Lived In section: (('Saint Petersburg, Florida', 'Current city'),)
+
+Facebook Work section: (('Self-Employed', 'https://www.facebook.com/pages/Self-Employed/594445203920155', ''),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

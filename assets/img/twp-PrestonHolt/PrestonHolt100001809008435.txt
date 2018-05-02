@@ -1,0 +1,23 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001809008435
+
+Facebook name: Preston Holt
+
+Facebook username: preston.holt.12
+
+Facebook Intro section: Works at Deahl Mowing Went to Madisonville North Hopkins High School Lives in Madisonville, Kentucky From Providence, Webster County, Kentucky Joined October 2010
+
+Facebook Cities Lived In section: (('Madisonville, Kentucky', 'Current city'), ('Providence, Webster County, Kentucky', 'Hometown'))
+
+Facebook Work section: (('Gibbs Die Casting Corporation', 'https://www.facebook.com/gibbsdiecast/', ''), ('Deahl Mowing', 'https://www.facebook.com/pages/Deahl-Mowing/402899976498571', ''))
+
+Facebook Education section: (('Madisonville North Hopkins High School', 'https://www.facebook.com/pages/Madisonville-North-Hopkins-High-School/103789226325842', ''),)
+
+Facebook Relationship Status section: ('Brittney MichelleIn a relationship',)
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women'}
+

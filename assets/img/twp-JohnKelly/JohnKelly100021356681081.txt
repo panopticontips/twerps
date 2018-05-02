@@ -1,0 +1,21 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100021356681081
+
+Facebook name: John Kelly
+
+Facebook username: 100021356681081
+
+Facebook Intro section: Lives in Chicago, Illinois In a relationship From Chicago, Illinois Joined August 2017
+
+Facebook Cities Lived In section: (('Chicago, Illinois', 'Current city'), ('Chicago, Illinois', 'Hometown'))
+
+Facebook Relationship Status section: ('In a relationship',)
+
+Facebook Life Events section: ('2017', 'In a Relationship')
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

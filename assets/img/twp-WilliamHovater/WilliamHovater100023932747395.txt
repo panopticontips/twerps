@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100023932747395
+
+Facebook name: William Hovater
+
+Facebook alternate name: Tony Hovater 
+
+Facebook username: william.hovater.1
+
+Facebook Intro section: TWP
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

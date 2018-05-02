@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100021459948706
+
+Facebook name: Gunther Teuton
+
+Facebook username: gunther.teuton.5
+
+Facebook Intro section: Former BIG GUY (for you) at Traditionalist Workers Party
+
+Facebook Work section: (('Traditionalist Workers Party', 'https://www.facebook.com/pages/Traditionalist-Workers-Party/856165191155909', 'BIG GUY (for you)'),)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

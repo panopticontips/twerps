@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001063760430
+
+Facebook name: Cameron Minick
+
+Facebook username: cameron.minick
+
+Facebook Intro section: Just a dirty white boy tbh. Joined May 2010
+
+Facebook Relationship Status section: ('Michelle SantanaIn a relationship since January 11, 2013',)
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

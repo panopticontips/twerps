@@ -1,0 +1,17 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100010192872979
+
+Facebook name: Joe Quantavius Smith
+
+Facebook username: 100010192872979
+
+Facebook Intro section: Joined September 2015 thesocialnationationalist.com
+
+Facebook Contact info: {'Websites': ['http://www.thesocialnationationalist.com/']}
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

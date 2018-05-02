@@ -1,0 +1,19 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100003285288876
+
+Facebook name: Jereme Bowman
+
+Facebook username: jerem3.bowman.73
+
+Facebook Cities Lived In section: (('Yokohama', 'Current city'), ('Yokohama', 'Hometown'))
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/jerem3.bowman.73']}
+
+Facebook Details section: 14/28
+
+Facebook Basic Info section: {'Gender': 'Male', 'Interested In': 'Women'}
+

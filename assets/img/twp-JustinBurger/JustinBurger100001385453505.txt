@@ -1,0 +1,25 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100001385453505
+
+Facebook name: Justin Burger
+
+Facebook username: justin.burger.357
+
+Facebook Intro section: I am a Third-Position activist/Mosleyite. Faith, Family, Folk. Head Content Editor at When the meme man throw in a lil extra Founder/CEO/Owner at World History Daily Went to Lithia Springs High Lives in Douglasville, Georgia In a relationship From Douglasville, Georgia Pronounces name HYOH MUNG-guhs Joined August 2010 Followed by 394 people Manages When the meme man throw in a lil extra , World History Daily and 3 other Pages
+
+Facebook Cities Lived In section: (('Douglasville, Georgia', 'Current city'), ('Douglasville, Georgia', 'Hometown'))
+
+Facebook Work section: (('World History Daily', 'https://www.facebook.com/WorldHistoryDaily/', 'Founder/CEO/Owner · 2018 to present'), ('The International Nationalist', 'https://www.facebook.com/TheRadicalNationalist/', 'Founder/CEO/Owner · 2016 to present'), ('Art, Music And Literature Of A World Gone', 'https://www.facebook.com/Art-Music-And-Literature-Of-A-World-Gone-1714275405568376/', 'CEO/Founder/Owner · Douglasville, Georgia'), ('When the meme man throw in a lil extra', 'https://www.facebook.com/TheDankMemeMan/', 'Head Content Editor'))
+
+Facebook Education section: (('Lithia Springs High', 'https://www.facebook.com/pages/Lithia-Springs-High/111978985486397', 'Class of 2016 · Lithia Springs, Georgia'),)
+
+Facebook Relationship Status section: ('In a relationship since August 7, 2015',)
+
+Facebook Life Events section: ('2018', 'Started New Job at World History Daily', '2016', 'Graduated from Lithia Springs High', 'Started New Job at The International Nationalist', '2013', 'Started School at Lithia Springs High')
+
+Facebook Basic Info section: {'Birthday': 'August 6', 'Gender': 'Male', 'Interested In': 'Women', 'Religious Views': 'Agnostic, with extreme respect to Orthodox Christians', 'Political Views': 'OtherThird-Position Mosleyite\n\n'}
+

@@ -1,0 +1,13 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100016920573498
+
+Facebook name: Axon Spectra
+
+Facebook username: 100016920573498
+
+Facebook Basic Info section: {'Gender': 'Male'}
+

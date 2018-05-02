@@ -1,0 +1,25 @@
+(Enter manual research here)
+
+
+  ---  Automatically Gathered Facebook Data Below  ---  
+
+Facebook ID number: 100011810086449
+
+Facebook name: Brooke Whaley
+
+Facebook alternate name: biw
+
+Facebook username: sussieQ89
+
+Facebook Cities Lived In section: (('New York, New York', 'Current city'),)
+
+Facebook Work section: (('Stay-at-home parent', 'https://www.facebook.com/pages/Stay-at-home-parent/1393703070850292', 'Housekeeping · October 12, 2006 to present'), ('YouTuber', 'https://www.facebook.com/pages/YouTuber/1451387688492591', ''))
+
+Facebook Education section: (('New York University', 'https://www.facebook.com/NYU/', 'New York, New York'),)
+
+Facebook Contact info: {'Facebook': ['http://facebook.com/sussieQ89']}
+
+Facebook Life Events section: ('2006', 'Started New Job at Stay-at-home parent')
+
+Facebook Basic Info section: {'Gender': 'Female'}
+
