@@ -46,9 +46,6 @@ Languages: English language
 ![screenshot]({{ "/assets/img/twp-ZaineDeal/ZainDealfathersbusiness.jpg" | prepend:site.baseurl }})
 
 
-![screenshot]({{ "/assets/img/twp-ZaineDeal/ZaineDealsisterwasbornSept62001motherisSaraVoss.jpg" | prepend:site.baseurl }})
-
-
 ![screenshot]({{ "/assets/img/twp-ZaineDeal/ZaineDeal1.png" | prepend:site.baseurl }})
 
 
