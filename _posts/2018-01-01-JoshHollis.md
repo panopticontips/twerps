@@ -6,7 +6,24 @@ tags: [hp, southeast]
 
 
 ## Josh Hollis
-FB user ID: 100008186135211[link to facebook account](https://www.facebook.com/100008186135211)nickname is "Hammerhead" Married to Nathina Hollis (her maiden name may be Nathina Purvis") [link to facebook account](https://www.facebook.com/100002694757884)Moved to Paradise Park in Jacksonville, Arkansas 72076 on October 29, 2016 Friends with Derrick Davis
+
+FB user ID: 100008186135211
+
+[link to facebook account](https://www.facebook.com/100008186135211)
+
+nickname is "Hammerhead" 
+
+Married to Nathina Hollis (her maiden name may be Nathina Purvis") [link to facebook account](https://www.facebook.com/100002694757884)
+
+Moved to Paradise Park in Jacksonville, Arkansas 72076 on October 29, 2016 
+
+Friends with Derrick Davis
+
+
+
+
+
+
 
 
  Josh Hollis
@@ -39,9 +56,6 @@ I do not think much of a man that is not wiser than he was yeserday.
 
 
 ![screenshot]({{ "/assets/img/twp-JoshHollis/JoshHollisonfarrightinTWPshirt.jpg" | prepend:site.baseurl }})
-
-
-![screenshot]({{ "/assets/img/twp-JoshHollis/17424704_1871527759796744_219575635263816279_n.jpg" | prepend:site.baseurl }})
 
 
 ![screenshot]({{ "/assets/img/twp-JoshHollis/JoshHollis5.jpg" | prepend:site.baseurl }})
