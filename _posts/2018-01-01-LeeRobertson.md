@@ -6,7 +6,22 @@ tags: [qz, southeast]
 
 
 ## Lee Robertson
-Has 2 FB accountsfirst FB user ID: 100006383190293[link to first facebook account](https://www.facebook.com/100006383190293)second FB user ID: 100011698052210[link to second facebook account](https://www.facebook.com/100011698052210)Full name is Lee Bociefus (or Bociphus) RobertsonHis mother is Tami Porter [fb link](https://www.facebook.com/100010588355377)He's a tattoo artist working at Elite Tattoo Lounge (owned by Aaron Chapman, another TWP member).His listed work number: (270) 875-6806He's engaged to Amber Travis [fb link](https://www.facebook.com/100001078486429)
+
+Has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100006383190293)
+
+[link to second facebook account](https://www.facebook.com/100011698052210)
+
+Full name is Lee Bociefus (or Bociphus) Robertson
+
+His mother is Tami Porter [fb link](https://www.facebook.com/100010588355377)
+
+He's a tattoo artist working at Elite Tattoo Lounge (owned by Aaron Chapman, another TWP member).
+
+His listed work number: (270) 875-6806
+
+He's engaged to Amber Travis [fb link](https://www.facebook.com/100001078486429)
 
 
  Lee Robertson
