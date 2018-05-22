@@ -6,7 +6,28 @@ tags: [qz, northeast]
 
 
 ## Michaela Shaperonova
-She has 2 FB accountsFirst FB user ID: 100000681173920[link to first facebook account](https://www.facebook.com/100000681173920)Second FB user ID: 100008126917671[link to second facebook account](https://www.facebook.com/100008126917671)Her real name may be Michaela Catherine Shapero. Alternatively, perhaps her name is Mihkaila Laufeyson (this is the name that appears in the url for her second facebook account).She is Russian. Born on June 23. Her grandfather is Richard J. Laycock. He served in the US Army.Lives in either Washington, District of Columbia or Germantown, Maryland.From Minnetrista, Minnesota.Graduated from Gaithersburg High School (Maryland) in 2017 (she had to re-take the 12th grade).Engaged to Shawn Nanni  https://www.facebook.com/profile.php?id=100011364979177&fref=ufiWorks as Washington D.C. Correspondent at Scyther Podcasts (covers news in wrestling)
+
+She has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100000681173920)
+
+[link to second facebook account](https://www.facebook.com/100008126917671)
+
+Her real name may be Michaela Catherine Shapero. Alternatively, perhaps her name is Mihkaila Laufeyson (this is the name that appears in the url for her second facebook account).
+
+She is Russian. Born on June 23. Her grandfather is Richard J. Laycock. He served in the US Army.
+
+Lives in either Washington, District of Columbia or Germantown, Maryland.
+
+From Minnetrista, Minnesota.
+
+Graduated from Gaithersburg High School (Maryland) in 2017 (she had to re-take the 12th grade).
+
+Engaged to Shawn Nanni  
+https://www.facebook.com/profile.php?id=100011364979177&fref=ufi
+
+Works as Washington D.C. Correspondent at Scyther Podcasts (covers news in wrestling)
+
 
 
  Michaela Shaperonova
