@@ -7,8 +7,6 @@ tags: [ag, midwest]
 
 ## Zaine Deal
 
-FB user ID: 100001872545098
-
 [link to facebook account](https://www.facebook.com/100001872545098)
 
 He was born Aug. 7, 1999, making him 18. Its not clear if he has graduated high school yet or stopped living with his parents yet. His parents are separated, and it appears he maybe only spent/spends weekends with his father.
