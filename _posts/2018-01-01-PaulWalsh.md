@@ -6,7 +6,16 @@ tags: [qz, midwest]
 
 
 ## Paul Walsh
-FB user ID: 100000095108526[link to facebook account](https://www.facebook.com/100000095108526)Paul Hooberson WalshLives in Detroit, Michigan -> correction: lives in Muskegon, Michiganhttps://altrightalready.wordpress.com/2017/08/12/white-supremacists-using-red-wings-logo-financed-trip-with-gofundme/Leads the neo-Nazi group the "Detroit Red Wings" (of the same name as the well known hockey team)
+
+[link to facebook account](https://www.facebook.com/100000095108526)
+
+Paul Hooberson Walsh
+
+Lives in Detroit, Michigan -> correction: lives in Muskegon, Michigan
+
+https://altrightalready.wordpress.com/2017/08/12/white-supremacists-using-red-wings-logo-financed-trip-with-gofundme/
+
+Leads the neo-Nazi group the "Detroit Red Wings" (of the same name as the well known hockey team)
 
 
  Paul Walsh
