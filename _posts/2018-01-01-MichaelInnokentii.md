@@ -6,7 +6,8 @@ tags: [hp, other]
 
 
 ## Michael Innokentii
-FB user ID: 100018268211543[link to facebook account](https://www.facebook.com/100018268211543)
+
+[link to facebook account](https://www.facebook.com/100018268211543)
 
 
 ![screenshot]({{ "/assets/img/twp-MichaelInnokentii/MichaelInnokentiiprofilepiccommentedonbyTWPmembers.jpg" | prepend:site.baseurl }})
