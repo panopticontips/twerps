@@ -6,7 +6,24 @@ tags: [hp, southeast]
 
 
 ## Michael Gardner
-list as: Michael GardnerHas 2 FB accountsfirst FB user ID: 100001671307338[link to first facebook account](https://www.facebook.com/100001671307338)second FB user ID: 100004562415935[link to second facebook account](https://www.facebook.com/100004562415935)Real name is Michael Ray Gardner.He's divorced. His ex-wife is Anna Moore [fb link](https://www.facebook.com/885735327). He's now sad and lonely cuz no woman will tolerate his nazi views.He and his ex-wife have a son Christian Gardner.He lives in Madisonville KYHe's from Providence, Webster County, Kentucky
+
+list as: Michael Gardner
+
+Has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100001671307338)
+
+[link to second facebook account](https://www.facebook.com/100004562415935)
+
+Real name is Michael Ray Gardner.
+
+He's divorced. His ex-wife is Anna Moore [fb link](https://www.facebook.com/885735327). He's now sad and lonely cuz no woman will tolerate his nazi views.
+
+He and his ex-wife have a son Christian Gardner.
+
+He lives in Madisonville KY
+
+He's from Providence, Webster County, Kentucky
 
 
  Michael Reich
