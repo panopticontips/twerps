@@ -6,7 +6,22 @@ tags: [qz, northeast]
 
 
 ## Brooke Whaley
-FB user ID: 100011810086449[link to facebook account](https://www.facebook.com/100011810086449)Since we started looking at her account she has changed her FB name to Brooke White.The change.org petitions they share are under the name "Brooke Damron"Lives in New York, NY. Studied at NYU. Stay at home mom / youtuber. (Needs verification)https://www.gofundme.com/beautifulinwhite (says from Columbus Ohio)https://gab.ai/beautifulinwhitehttps://m.youtube.com/channel/UClHhN2qvz8bSZrv8D2wNDQQUsername is "SussieQ89." Born in '89?
+
+[link to facebook account](https://www.facebook.com/100011810086449)
+
+Since we started looking at her account she has changed her FB name to Brooke White.
+
+The change.org petitions they share are under the name "Brooke Damron"
+
+Lives in New York, NY. Studied at NYU. Stay at home mom / youtuber. (Needs verification)
+
+https://www.gofundme.com/beautifulinwhite (says from Columbus Ohio)
+
+https://gab.ai/beautifulinwhite
+
+https://m.youtube.com/channel/UClHhN2qvz8bSZrv8D2wNDQQ
+
+Username is "SussieQ89." Born in '89?
 
 
  Brooke Whaley
