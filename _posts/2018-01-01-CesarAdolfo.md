@@ -6,7 +6,20 @@ tags: [ag, other]
 
 
 ## Cesar Adolfo
-Has 2 FB accountsFirst FB user ID: 100024621725241[link to first facebook account](https://www.facebook.com/100024621725241)Second FB user ID: 100022364765200[link to second facebook account](https://www.facebook.com/100022364765200)Referred to as "Cesar Adolfo Hess" by SPLC (https://www.splcenter.org/hatewatch/2018/01/10/ties-bind-hypocrisy-foundations-nationalist-front)Referred to as "Cesar Adolfo Arv" in a Knoxville antifa blog (https://webcache.googleusercontent.com/search?q=cache:liGsO5XsH7wJ:https://knoxvillenazis.wordpress.com/2018/02/15/outsider-nazis-organizing-in-knoxville/+&cd=6&hl=en&ct=clnk&gl=us)Discord handles:  ['Commander Cesar A'](https://discordleaks.unicornriot.ninja/discord/user/2072)  **Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+Has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100024621725241)
+
+[link to second facebook account](https://www.facebook.com/100022364765200)
+
+Referred to as "Cesar Adolfo Hess" by SPLC (https://www.splcenter.org/hatewatch/2018/01/10/ties-bind-hypocrisy-foundations-nationalist-front)
+
+Referred to as "Cesar Adolfo Arv" in a Knoxville antifa blog (https://webcache.googleusercontent.com/search?q=cache:liGsO5XsH7wJ:https://knoxvillenazis.wordpress.com/2018/02/15/outsider-nazis-organizing-in-knoxville/+&cd=6&hl=en&ct=clnk&gl=us)
+
+Discord handles:  
+['Commander Cesar A'](https://discordleaks.unicornriot.ninja/discord/user/2072)  
+**Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
 
 
  Cesar Adolfo
