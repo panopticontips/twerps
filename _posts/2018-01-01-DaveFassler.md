@@ -6,7 +6,23 @@ tags: [ag, southeast]
 
 
 ## Dave Fassler
-Has 2 FB accountsFirst FB user ID: 100022968821590[link to first facebook account](https://www.facebook.com/100022968821590)Second FB user ID: 100024964011235[link to second facebook account](https://www.facebook.com/100024964011235)Lives in Covington, KentuckyWent to Highlands High School in Thomas, KentuckyDiscord handles:  ['fassel'](https://discordleaks.unicornriot.ninja/discord/user/2388)  **Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
+Has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100022968821590)
+
+[link to second facebook account](https://www.facebook.com/100024964011235)
+
+Lives in Covington, Kentucky
+
+Went to Highlands High School in Thomas, Kentucky
+
+Discord handles:  
+['fassel'](https://discordleaks.unicornriot.ninja/discord/user/2388)  
+**Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
+
+
 
 
  Dave Fassler
