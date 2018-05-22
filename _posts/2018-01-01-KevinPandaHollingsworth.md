@@ -6,7 +6,15 @@ tags: [hp, midwest]
 
 
 ## Kevin Hollingsworth
-list as: Kevin HollingsworthFB user ID: 1562661304[link to facebook account](https://www.facebook.com/1562661304)Kevin Matthew Hollingsworth  Age: 27  4945 Rue Vallee, Indianapolis, Indiana (suspected)  Facebook Quotes: 'DEUS VULT'
+
+list as: Kevin Hollingsworth
+
+[link to facebook account](https://www.facebook.com/1562661304)
+
+Kevin Matthew Hollingsworth  
+Age: 27  
+4945 Rue Vallee, Indianapolis, Indiana (suspected)  
+Facebook Quotes: 'DEUS VULT'
 
 
  Kevin Panda Hollingsworth
