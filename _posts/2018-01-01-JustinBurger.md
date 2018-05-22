@@ -6,7 +6,29 @@ tags: [ag, southeast]
 
 
 ## Justin Burger
-Justin BurgerFB user ID: 100001385453505[link to facebook account](https://www.facebook.com/100001385453505)Lives in Douglasville, Georgia. Is Officer of North Georgia.Went to the Shelbyville TN eventHe's continuing with the rebranded group Nationalist InitiativeSister: Kimber Burger [fb link](https://www.facebook.com/100000477250552)  Sister: Jessica Burger [fb link](https://www.facebook.com/100000137089294)  Sister: Melissa Burger-Pittman [fb link](https://www.facebook.com/100001423866380)  Father: Anthony Burger [fb link](https://www.facebook.com/100002561461509)  Mother: Carol Vinson Burger [fb link](https://www.facebook.com/1279387820)  Previously doxxed on IGD:  https://itsgoingdown.org/racists-menace-tennessee-church-reeling-mass-shooting/Discord handles:  ['Justin Burger (Major-GA)'](https://discordleaks.unicornriot.ninja/discord/user/2104)  **Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
+Justin Burger
+
+[link to facebook account](https://www.facebook.com/100001385453505)
+
+Lives in Douglasville, Georgia. Is Officer of North Georgia.
+
+Went to the Shelbyville TN event
+
+He's continuing with the rebranded group Nationalist Initiative
+
+Sister: Kimber Burger [fb link](https://www.facebook.com/100000477250552)  
+Sister: Jessica Burger [fb link](https://www.facebook.com/100000137089294)  
+Sister: Melissa Burger-Pittman [fb link](https://www.facebook.com/100001423866380)  
+Father: Anthony Burger [fb link](https://www.facebook.com/100002561461509)  
+Mother: Carol Vinson Burger [fb link](https://www.facebook.com/1279387820)  
+
+Previously doxxed on IGD:  
+https://itsgoingdown.org/racists-menace-tennessee-church-reeling-mass-shooting/
+
+Discord handles:  
+['Justin Burger (Major-GA)'](https://discordleaks.unicornriot.ninja/discord/user/2104)  
+**Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
 
 
  Justin Burger
