@@ -6,7 +6,15 @@ tags: [hp, southeast]
 
 
 ## Katrina Diane Mullins
-FB user ID: 100001247137980[link to facebook account](https://www.facebook.com/100001247137980)Bday: December 28, 1981Husband: Anthony MullinsLocation: Hanson, KYEducation: Madisonville Community College
+
+[link to facebook account](https://www.facebook.com/100001247137980)
+
+Bday: December 28, 1981
+Husband: Anthony Mullins
+Location: Hanson, KY
+Education: Madisonville Community College
+
+
 
 
  Katrina Diane Mullins
