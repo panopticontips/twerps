@@ -6,7 +6,20 @@ tags: [hp, midwest]
 
 
 ## Logan Neher
-list as: Logan NeherHe has 2 FB accounts.First FB user ID: 100016920573498[link to first facebook account](https://www.facebook.com/100016920573498)Second FB user ID: 100000759995465[link to second facebook account](https://www.facebook.com/100000759995465)His real name appears to be Logan Shane Wilhelm Neher.Likely lives in Columbus OHHe makes shitty synthwave music: https://soundcloud.com/user-521499747
+
+list as: Logan Neher
+
+He has 2 FB accounts.
+
+[link to first facebook account](https://www.facebook.com/100016920573498)
+
+[link to second facebook account](https://www.facebook.com/100000759995465)
+
+His real name appears to be Logan Shane Wilhelm Neher.
+
+Likely lives in Columbus OH
+
+He makes shitty synthwave music: https://soundcloud.com/user-521499747
 
 
  Axon Spectra
