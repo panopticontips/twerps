@@ -6,7 +6,18 @@ tags: [qz, midwest]
 
 
 ## Brian Sonny Thomas
-list as: Brian "Sonny" ThomasFB user ID: 100000712887723[link to facebook account](https://www.facebook.com/100000712887723)Brian "Sonny" ThomasLives in Springboro, Ohio. Originally from Daton, Ohio. Went to Sinclair Community College in Dayton, Ohio. Went to Belmont High School in Dayton, OhioHost of the Sonny Thomas Radio Show and Director of Ohio Council of Conservative Citizens.His FB account has numerous posts that link to the TWP website, and he filmed, edited, and proselytized speeches by Matthew Heimbach (such as https://www.youtube.com/watch?v=K1J_RzxFlwQ).
+
+list as: Brian "Sonny" Thomas
+
+[link to facebook account](https://www.facebook.com/100000712887723)
+
+Brian "Sonny" Thomas
+
+Lives in Springboro, Ohio. Originally from Daton, Ohio. Went to Sinclair Community College in Dayton, Ohio. Went to Belmont High School in Dayton, Ohio
+
+Host of the Sonny Thomas Radio Show and Director of Ohio Council of Conservative Citizens.
+
+His FB account has numerous posts that link to the TWP website, and he filmed, edited, and proselytized speeches by Matthew Heimbach (such as https://www.youtube.com/watch?v=K1J_RzxFlwQ).
 
 
  Snny Thomas
