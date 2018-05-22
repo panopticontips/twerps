@@ -7,8 +7,6 @@ tags: [hp, southeast]
 
 ## Josh Hollis
 
-FB user ID: 100008186135211
-
 [link to facebook account](https://www.facebook.com/100008186135211)
 
 nickname is "Hammerhead" 
