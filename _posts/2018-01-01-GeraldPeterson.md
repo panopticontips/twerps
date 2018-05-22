@@ -6,7 +6,12 @@ tags: [hp, southwest]
 
 
 ## Gerald Peterson
-FB user ID: 100014427252730[link to facebook account](https://www.facebook.com/100014427252730)Lives either near Denton / Collins counties in north Texas. Originally from Seguin TX.Occupation couldn't be found.
+
+[link to facebook account](https://www.facebook.com/100014427252730)
+
+Lives either near Denton / Collins counties in north Texas. Originally from Seguin TX.
+
+Occupation couldn't be found.
 
 
  Gerald Peterson
