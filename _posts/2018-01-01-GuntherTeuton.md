@@ -6,7 +6,20 @@ tags: [qz, midwest]
 
 
 ## Gunther Teuton
-Has 3 FB accountsFirst FB user ID: 100021459948706[link to first facebook account](https://www.facebook.com/100021459948706)Second FB user ID: 100022439084211[link to second facebook account](https://www.facebook.com/100022439084211)Third FB user ID: 100022072431549[link to third facebook account](https://www.facebook.com/100022072431549)Was in Charlottesville with TWPhttp://archive.is/YlSYa Interview with “gunther rice” who i believe is “gunther/gunter teuton.” Possibly from nj and possibly now living in Indiana.https://m.huffpost.com/us/entry/us_5a745c5fe4b01ce33eb1d720 Talks about heimbachs young bodyguard “gunther.”
+
+Has 3 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100021459948706)
+
+[link to second facebook account](https://www.facebook.com/100022439084211)
+
+[link to third facebook account](https://www.facebook.com/100022072431549)
+
+Was in Charlottesville with TWP
+
+http://archive.is/YlSYa Interview with “gunther rice” who i believe is “gunther/gunter teuton.” Possibly from nj and possibly now living in Indiana.
+
+https://m.huffpost.com/us/entry/us_5a745c5fe4b01ce33eb1d720 Talks about heimbachs young bodyguard “gunther.”
 
 
  Gunther Teuton
