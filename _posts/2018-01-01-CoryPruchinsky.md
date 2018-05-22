@@ -6,7 +6,16 @@ tags: [hp, midwest]
 
 
 ## Cory Pruchinsky
-He has 2 FB accountsFirst FB user ID: 100013932513455[link to first facebook account](https://www.facebook.com/100013932513455)Second FB user ID: 1400258134[link to second facebook account](https://www.facebook.com/1400258134)He lists himself as living in Lorain, OH, having graduated from Admiral King High School in Lorain OH, and being originally from Amherst, OH. Most of his FB check-ins are in OH.He expressed interest in joining the TWP once it rebrands.
+
+He has 2 FB accounts
+
+[link to first facebook account](https://www.facebook.com/100013932513455)
+
+[link to second facebook account](https://www.facebook.com/1400258134)
+
+He lists himself as living in Lorain, OH, having graduated from Admiral King High School in Lorain OH, and being originally from Amherst, OH. Most of his FB check-ins are in OH.
+
+He expressed interest in joining the TWP once it rebrands.
 
 
  Cory Pruchinsky
