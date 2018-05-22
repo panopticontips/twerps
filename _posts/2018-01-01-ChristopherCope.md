@@ -6,7 +6,14 @@ tags: [ag, southwest]
 
 
 ## Christopher Cope
-FB user ID: 100001776226180[link to facebook account](https://www.facebook.com/100001776226180)Current or former member of US Navy. Pictures of him in uniform show that Christopher Cope is his real name. As of Jan. 29, 2015 he was stationed on the USS Winston S Churchill DDG 81. He graduated from the Naval Training Command on Aug. 31, 2012.His father is Charles Cope and his mother is Theresa Cope.He lives in noth Texas, likely within commuting distance of Garland, TX. He's member of a Dallas-Fort Worth FB group.
+
+[link to facebook account](https://www.facebook.com/100001776226180)
+
+Current or former member of US Navy. Pictures of him in uniform show that Christopher Cope is his real name. As of Jan. 29, 2015 he was stationed on the USS Winston S Churchill DDG 81. He graduated from the Naval Training Command on Aug. 31, 2012.
+
+His father is Charles Cope and his mother is Theresa Cope.
+
+He lives in noth Texas, likely within commuting distance of Garland, TX. He's member of a Dallas-Fort Worth FB group.
 
 
  Christopher Cope
