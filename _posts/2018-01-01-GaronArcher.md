@@ -6,7 +6,24 @@ tags: [ag, southeast]
 
 
 ## Garon Archer
-FB user ID: 100014849027354[link to facebook account](https://www.facebook.com/100014849027354)Second FB user ID: 100011254181100[link to facebook account](https://www.facebook.com/profile.php?id=100011254181100)Lives in and is from Elizabethton, Tennessee.He was in Charlottesville with League of the South http://www.thegatewaypundit.com/2017/09/busted-another-white-nationalist-leader-active-occupy-movement-video-proof/Knoxville News Sentinel wrote an expose article on his White Supremacist ties [link to article](https://www.knoxnews.com/story/news/2017/09/05/outspoken-east-tennessee-white-nationalist-fort-sanders-rally-once-active-occupy-communist-groups/612920001/)He was also discussed on the blog Restoring the Honor:  http://restoringthehonor.blogspot.com/2017/07/unite-right-meet-garon-archer.html
+
+[link to facebook account](https://www.facebook.com/100014849027354)
+
+[link to facebook account](https://www.facebook.com/profile.php?id=100011254181100)
+
+Lives in and is from Elizabethton, Tennessee.
+
+He was in Charlottesville with League of the South 
+http://www.thegatewaypundit.com/2017/09/busted-another-white-nationalist-leader-active-occupy-movement-video-proof/
+
+Knoxville News Sentinel wrote an expose article on his White Supremacist ties 
+
+[link to article](https://www.knoxnews.com/story/news/2017/09/05/outspoken-east-tennessee-white-nationalist-fort-sanders-rally-once-active-occupy-communist-groups/612920001/)
+
+He was also discussed on the blog Restoring the Honor:  
+http://restoringthehonor.blogspot.com/2017/07/unite-right-meet-garon-archer.html
+
+
 
 
  Garon Archer
