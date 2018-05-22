@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Christopher Pack"
-tags: [qz, southeast]
+tags: [hp, southeast]
 ---
 
 
