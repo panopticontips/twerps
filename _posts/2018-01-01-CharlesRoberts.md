@@ -6,7 +6,14 @@ tags: [qz, southwest]
 
 
 ## Charles Roberts
-FB user ID: 100010156506621[link to facebook account](https://www.facebook.com/100010156506621)He is/was in the Army.(photos from 2016 have him in uniform)Location is unclear, but he's member of a Texas based FB group.The white magnolia flower on his pictures is a logo for Identity Dixie, a southern US offshoot of The Right Stuff. Again this suggests he's based in the south.
+
+[link to facebook account](https://www.facebook.com/100010156506621)
+
+He is/was in the Army.(photos from 2016 have him in uniform)
+
+Location is unclear, but he's member of a Texas based FB group.
+
+The white magnolia flower on his pictures is a logo for Identity Dixie, a southern US offshoot of The Right Stuff. Again this suggests he's based in the south.
 
 
  Charles Roberts
