@@ -1,13 +1,19 @@
 ---
 layout: default
-title: "John Smith"
-tags: [qz, midwest]
+title: "Christopher Pack"
+tags: [qz, southeast]
 ---
 
 
-## John Smith
-FB user ID: 100022260432288[link to facebook account](https://www.facebook.com/100022260432288)John Smith is most likely a fake name. He goes by "Bill"Possibly married to Karissa Anne [link to facebook account](https://www.facebook.com/677464552)On Feb. 24, 2018 he was added to a small FB group ([link](https://www.facebook.com/groups/689727048059405)) for a Black Metal records store in Lafayette, Indiana. This suggests he may live nearby and may regularly visit the store.
+## Christopher Pack
 
+[link to facebook account](https://www.facebook.com/100022260432288)
+
+Married to Karissa Anne [link to facebook account](https://www.facebook.com/677464552)
+
+On Feb. 24, 2018 he was added to a small FB group ([link](https://www.facebook.com/groups/689727048059405)) for a Black Metal records store in Lafayette, Indiana.
+
+He was doxxed on Its Going Down (https://itsgoingdown.org/wnc-alerta-the-neo-nazis-next-door/). His real name is Christopher Michael Pack and he lives in Brasstown, North Carolina.
 
  John Smith
 
