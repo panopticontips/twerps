@@ -6,7 +6,27 @@ tags: [hp, midwest]
 
 
 ## Timothy Garrity
-Timothy Ryan GarrityFB user ID: 1424889729[link to facebook account](https://www.facebook.com/1424889729)Location: Hamilton, OhioWorks for the Tenant Packing Company in Fairfield, Ohio & at Jungle Jim's International Market in Fairfield, Ohio.Went to Corona Del Sol in Tempe, Arizona and is originally from Mesa, Arizona.Phone number? 480-406-xxxxFamily/associates:Dani GarrityTena GarrityJane E GarrityLeonard J GarrityRobert Garrity
+
+Timothy Ryan Garrity
+
+[link to facebook account](https://www.facebook.com/1424889729)
+
+Location: Hamilton, Ohio
+
+Works for the Tenant Packing Company in Fairfield, Ohio & at Jungle Jim's International Market in Fairfield, Ohio.
+
+Went to Corona Del Sol in Tempe, Arizona and is originally from Mesa, Arizona.
+
+Phone number? 480-406-xxxx
+
+
+Family/associates:
+Dani Garrity
+Tena Garrity
+Jane E Garrity
+Leonard J Garrity
+Robert Garrity
+
 
 
  Timothy Garrity
