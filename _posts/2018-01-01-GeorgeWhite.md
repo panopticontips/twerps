@@ -6,7 +6,14 @@ tags: [qz, midwest]
 
 
 ## George White
-FB user ID: 100017712013934[link to facebook account](https://www.facebook.com/100017712013934)Lives in Gary, Indiana or in Logansport, IndianaA part of the rebranding of TWP currently 
+
+[link to facebook account](https://www.facebook.com/100017712013934)
+
+Lives in Gary, Indiana or in Logansport, Indiana
+
+A part of the rebranding of TWP currently 
+
+
 
 
  George White
