@@ -6,7 +6,15 @@ tags: [hp, southeast]
 
 
 ## Cameron Minick
-FB user ID: 100001063760430[link to facebook account](https://www.facebook.com/100001063760430)Lives in Columbus, Georgia. Born Oct. 31.Dating Michelle Santana since July 11, 2013: [link to facebook account](https://www.facebook.com/503982663). They have a child together.Went to the University of Alabama
+
+[link to facebook account](https://www.facebook.com/100001063760430)
+
+Lives in Columbus, Georgia. Born Oct. 31.
+
+Dating Michelle Santana since July 11, 2013: [link to facebook account](https://www.facebook.com/503982663). They have a child together.
+
+Went to the University of Alabama
+
 
 
  Cameron Minick
