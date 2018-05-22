@@ -6,7 +6,17 @@ tags: [ag, other]
 
 
 ## Johan Carollo
-FB user ID: 100024379800157[link to facebook account](https://www.facebook.com/100024379800157)Lives in Mountain View, ArkansasDiscord handles:  ['JohanC'](https://discordleaks.unicornriot.ninja/discord/user/1969)  ['Johannes'](https://discordleaks.unicornriot.ninja/discord/user/2227)  ['johanC'](https://discordleaks.unicornriot.ninja/discord/user/2235)  **Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
+[link to facebook account](https://www.facebook.com/100024379800157)
+
+Lives in Mountain View, Arkansas
+
+Discord handles:  
+['JohanC'](https://discordleaks.unicornriot.ninja/discord/user/1969)  
+['Johannes'](https://discordleaks.unicornriot.ninja/discord/user/2227)  
+['johanC'](https://discordleaks.unicornriot.ninja/discord/user/2235)  
+**Disclaimer: This research was completed before the Discord leaks were released by Unicorn Riot. Additional doxxing information may appear in this person's Discord chats. We encourage interested parties to browse the Discord chat logs themselves.
+
 
 
  Johan Carollo
