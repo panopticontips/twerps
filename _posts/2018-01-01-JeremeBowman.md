@@ -6,7 +6,14 @@ tags: [ag, midwest]
 
 
 ## Jereme Bowman
-FB user ID: 100003285288876[link to facebook account](https://www.facebook.com/100003285288876)His ex-wife is Brii Barret. They had a son, Ian Stuart Bowman born Jan. 24, 2013.It appears he lives in south eastern Indiana.He has a FB post promoting the TWP, and he has a FB photo with Matthew Heimbach (with a "Make Soccer White Again" banner).
+
+[link to facebook account](https://www.facebook.com/100003285288876)
+
+His ex-wife is Brii Barret. They had a son, Ian Stuart Bowman born Jan. 24, 2013.
+
+It appears he lives in south eastern Indiana.
+
+He has a FB post promoting the TWP, and he has a FB photo with Matthew Heimbach (with a "Make Soccer White Again" banner).
 
 
  Jereme Bowman
