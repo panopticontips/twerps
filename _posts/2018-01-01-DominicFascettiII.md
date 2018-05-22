@@ -6,7 +6,14 @@ tags: [hp, northeast]
 
 
 ## Dominic Fascetti II
-FB user ID: 100019391445711[link to facebook account](https://www.facebook.com/100019391445711)Name is likely fake.No photos found.Lives "a few hours north of Albany." He is currently either a teacher or a student. He joined the military 17 years ago, so he's not young.
+
+[link to facebook account](https://www.facebook.com/100019391445711)
+
+Name is likely fake.
+
+No photos found.
+
+Lives "a few hours north of Albany." He is currently either a teacher or a student. He joined the military 17 years ago, so he's not young.
 
 
  Dominic Fascetti II
