@@ -6,7 +6,14 @@ tags: [hp, southeast]
 
 
 ## Preston Holt
-FB user ID: 100001809008435[link to facebook account](https://www.facebook.com/100001809008435)Lives in Madisonville, KentuckyWent to Madisonville North Hopkins High SchoolWorks at Deahl Mowing Inc 25 Dempsey St, Madisonville, KY 42431 (270) 825-3375
+
+[link to facebook account](https://www.facebook.com/100001809008435)
+
+Lives in Madisonville, Kentucky
+
+Went to Madisonville North Hopkins High School
+
+Works at Deahl Mowing Inc 25 Dempsey St, Madisonville, KY 42431 (270) 825-3375
 
 
  Preston Holt
