@@ -6,7 +6,23 @@ tags: [qz, midwest]
 
 
 ## Adam Tuttle
-FB user ID: 100011381500118[link to facebook account](https://www.facebook.com/100011381500118)A post he made suggests he lives in Wisconsin. His FB events suggest that he lives in or near the cities of Stevens Point or Appleton, and that he has ties to Des Moines Iowa.Midgard Barbell Athletic Co., an "Athletic Company" that is really just a wordpress:https://midgardbarbell.wordpress.com/https://www.youtube.com/channel/UCLM3pdFwbw1VnAxTNTZiO-AUllr Media, a "Media Project" that is really just some teenager taking pictures of bands:https://www.facebook.com/ullrmediaHis video montages for some band called "The Hawkeyes" look like a Tim and Eric sketch lampooning late-night hard rock music compilation infomercials from the mid-200s (you know what I'm talkin' about!)On his youtube for the workout thing he says he is trying to emulate Operation Werewolf.  I'm gonna guess from the viewcount on that video that it isn't going so well...
+
+[link to facebook account](https://www.facebook.com/100011381500118)
+
+A post he made suggests he lives in Wisconsin. His FB events suggest that he lives in or near the cities of Stevens Point or Appleton, and that he has ties to Des Moines Iowa.
+
+Midgard Barbell Athletic Co., an "Athletic Company" that is really just a wordpress:
+
+https://midgardbarbell.wordpress.com/
+
+https://www.youtube.com/channel/UCLM3pdFwbw1VnAxTNTZiO-A
+
+Ullr Media, a "Media Project" that is really just some teenager taking pictures of bands:
+https://www.facebook.com/ullrmedia
+
+His video montages for some band called "The Hawkeyes" look like a Tim and Eric sketch lampooning late-night hard rock music compilation infomercials from the mid-200s (you know what I'm talkin' about!)
+
+On his youtube for the workout thing he says he is trying to emulate Operation Werewolf.  I'm gonna guess from the viewcount on that video that it isn't going so well...
 
 
  Adam Tuttle
